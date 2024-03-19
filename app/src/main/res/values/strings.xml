@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bang</string>
+
+    <string name="flag">da</string>
+    <string name="USA">USD</string>
+    <string name="valuteName">Американский доллар</string>
+    <string name="Buy">64.95</string>
+    <string name="sell">60.73</string>
+
+</resources>
