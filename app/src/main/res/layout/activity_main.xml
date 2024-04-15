@@ -39,23 +39,23 @@
                 android:orientation="vertical">
 
                 <Button
-                    android:id="@+id/btn_departmet"
-                    android:layout_width="match_parent"
-                    android:layout_height="85dp"
-                    android:layout_marginTop="40dp"
-                    android:backgroundTint="#FFFFFF"
-                    android:onClick="Enter_department"
-                    android:text="Отделения банкво"
-                    android:textColor="#000000"
-                    app:cornerRadius="2dp" />
-
-                <Button
                     android:id="@+id/btn_rates"
                     android:layout_width="match_parent"
                     android:layout_height="85dp"
                     android:layout_marginTop="20dp"
                     android:backgroundTint="#FFFFFF"
                     android:onClick="Enter_rate"
+                    android:text="Отделения банкво"
+                    android:textColor="#000000"
+                    app:cornerRadius="2dp" />
+
+                <Button
+                    android:id="@+id/btn_departmet"
+                    android:layout_width="match_parent"
+                    android:layout_height="85dp"
+                    android:layout_marginTop="40dp"
+                    android:backgroundTint="#FFFFFF"
+                    android:onClick="Enter_department"
                     android:text="Курсы валют"
                     android:textColor="#000000"
                     app:cornerRadius="2dp" />
